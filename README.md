@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+profile!)
+
+![Visitor](https://komarev.com/ghpvc/?username=<svccc666>&color=blue)
+
+![image](1.PNG)
